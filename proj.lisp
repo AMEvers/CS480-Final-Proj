@@ -1,16 +1,8 @@
 #|
 CS480 Summer 2016 
- Alex Goico, Allisa Evers, Mark McCaskey, Reza Ahmad
-Dr. Druic
-Project
-
-Project done with pair-programming, credit for work is pretty evenly 
-distributed.
-
-Alex:   GA, coloring
-Allisa: coloring algorithms, MGA
-Mark:   everything
-Reza:   GA
+Alyssa Evers, Mark McCaskey
+Dr. Duric
+Final Project
 |#
 
 
